@@ -50,4 +50,3 @@ These are example policies and can be adjusted to the academy's preferred rules.
 
 ## Important limitations
 This educational version stores data in memory. Data is reset when the application closes. Passwords are plain text for demonstration only; a real system should use secure password hashing and persistent database/file storage.
-
